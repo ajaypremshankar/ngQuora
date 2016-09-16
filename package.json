@@ -1,0 +1,15 @@
+{
+  "name": "ngQuora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Ajay Prem Shankar",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "angular": "1.5.8"
+  },
+  "scripts": {
+  }
+}
