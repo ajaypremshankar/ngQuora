@@ -8,7 +8,7 @@
   "devDependencies": {
   },
   "dependencies": {
-    "angular": "1.5.8"
+    "angular": "1.7.9"
   },
   "scripts": {
   }
